@@ -17,7 +17,7 @@ The computer randomly selects its move.
 
 The result (win/loss/tie) is displayed.
 
-❗ Notes
+##❗ Notes
 The game continues in a loop until the user selects Exit.
 
 If you input an invalid choice, the program will ask you to try again.
