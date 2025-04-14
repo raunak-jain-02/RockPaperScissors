@@ -22,7 +22,7 @@ The game continues in a loop until the user selects Exit.
 
 If you input an invalid choice, the program will ask you to try again.
 
-📧 Support
+## 📧 Support
 For any issues or suggestions, contact: raunakjain1002@gmail.com
 
 
