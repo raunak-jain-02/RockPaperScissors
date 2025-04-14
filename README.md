@@ -13,7 +13,7 @@ A terminal-based game where you play **Rock, Paper, Scissors** against the compu
 Make sure you have Python installed, then run:
 
 ```bash
-python game.py
+python game.py '''
 
 🎮 How to Play
 Choose option 1 to play or 2 to exit.
