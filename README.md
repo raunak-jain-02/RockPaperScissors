@@ -8,13 +8,6 @@ A terminal-based game where you play **Rock, Paper, Scissors** against the compu
 - Simple win/lose/tie logic
 - Runs continuously until the user chooses to exit
 
-## 🚀 How to Run
-
-Make sure you have Python installed, then run:
-
-```bash
-python game.py 
-
 ## 🎮 How to Play
 Choose option 1 to play or 2 to exit.
 
@@ -32,6 +25,11 @@ If you input an invalid choice, the program will ask you to try again.
 📧 Support
 For any issues or suggestions, contact: raunakjain1002@gmail.com
 
-Enjoy playing! 😊
 
-You can now copy and paste it all at once into your `README.md` file. Let me know if you want a version with emojis removed or simplified.
+## 🚀 How to Run
+
+Make sure you have Python installed, then run:
+
+```bash
+python game.py 
+
